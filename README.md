@@ -8,8 +8,8 @@ Sou apaixonada por tecnologias e programação. Estou em busca de melhorar e me 
  - 😄 Sobre mim: Amo estar com  minha família, curto tecnologias e Netflix.
  - 📫 Entre em contato comigo: 
  
-  - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
-  - [Email]: andressagomes@alu.ufc.br
+     - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
+     - Email: andressagomes@alu.ufc.br
 
 
 
