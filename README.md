@@ -2,7 +2,7 @@
 
 Sou apaixonada por tecnologias e programação. Estou em busca de melhorar e me aperfeiçoar a cada dia.
 
- - 🔭 Atualmente sou graduanda em Engenharia da Computação pela Universidade Federal do Ceará e bolsista do programa de Educação tutorial (PET).
+ - 🔭 Atualmente sou graduanda em Engenharia da Computação pela Universidade Federal do Ceará e bolsista do Programa de Educação Tutorial (PET).
  - 👯 Experiência com Python, Visão computacional e Processamento Digital de Imagens.
  - 🌱 Atualmente estou aprendendo sobre Desenvolvimento WEB, com ênfase em JavaScrip, Node.js ...
  - 😄 Sobre mim: Amo estar com  minha família, curto tecnologias e Netflix.
