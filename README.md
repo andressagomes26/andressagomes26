@@ -10,5 +10,4 @@ Sou apaixonada por tecnologias e programação. Estou em busca de melhorar e me 
      - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
      - Email: andressagomes@alu.ufc.br
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagomes26&layout=compact)]
+![Andressa's github stats](https://github-readme-stats.vercel.app/api?username=andressagomes26&hide=stars,commits)
