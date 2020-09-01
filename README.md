@@ -11,4 +11,5 @@ Sou apaixonada por tecnologias e programação. Estou em busca de melhorar e me 
      - Email: andressagomes@alu.ufc.br
 
 ![Andressa's github stats](https://github-readme-stats.vercel.app/api?username=andressagomes26&hide=stars,prs,issues,contribs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagomes26&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressagomes26&hide=java,Objective-C&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andressagomes26&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)
