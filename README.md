@@ -16,5 +16,7 @@
   😃 Aprendendo ReactJs
  
   📫 Entre em contato comigo: 
-     - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
-     - Email: andressagomes@alu.ufc.br
+  
+    - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
+  
+    - Email: andressagomes@alu.ufc.br
