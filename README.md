@@ -7,6 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressagomes26&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+  
   📚 Graduanda em Engenharia da Computação pela Universidade Federal do Ceará;
  
   💻 Estagiária Diagramadora Web na empresa Dell Lead.
@@ -17,6 +18,6 @@
  
   📫 Entre em contato comigo: 
   
-    - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
+   - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
   
-    - Email: andressagomes@alu.ufc.br
+   - Email: andressagomes@alu.ufc.br
