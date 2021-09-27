@@ -11,11 +11,11 @@
   
   📚 Graduanda em Engenharia da Computação pela Universidade Federal do Ceará;
  
-  💻 Estagiária Diagramadora Web na empresa Dell Lead.
+  💻 Estagiária Diagramadora Web na empresa Dell Lead;
  
-  💛 Conhecimento em HTML, CSS, JavaScript e Python
+  💛 Conhecimento em HTML, CSS, JavaScript e Python;
  
-  😃 Aprendendo ReactJs
+  😃 Aprendendo ReactJs.
   
   ## 
   
@@ -32,6 +32,8 @@
   
   📫 Entre em contato comigo: 
   
-   - [Linkedin](https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/)
-  
-   - Email: andressagomes@alu.ufc.br
+  <div> 
+    <a href = "mailto:andressagomes@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/andressa-gomes-moreira-a33939149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
