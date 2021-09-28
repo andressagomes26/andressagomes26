@@ -9,12 +9,12 @@
 
   ## 
   
-  📚 Graduanda em Engenharia da Computação pela Universidade Federal do Ceará;
- 
+  📚 Graduanda em Engenharia da Computação pela Universidade Federal do Ceará (UFC);
+  
   💻 Estagiária Diagramadora Web na empresa Dell Lead;
- 
+  
   💛 Conhecimento em HTML, CSS, JavaScript e Python;
- 
+  
   😃 Aprendendo ReactJs.
   
   ## 
