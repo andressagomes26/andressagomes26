@@ -5,6 +5,8 @@ Sou Bacharela em Engenharia da Computação e Mestranda em Engenharia Elétrica 
 
 📌 Ciências de Dados;
 
+📌 SQL;
+
 📌 Machine Learning;
 
 📌 Deep Learning;
@@ -23,7 +25,7 @@ Sou Bacharela em Engenharia da Computação e Mestranda em Engenharia Elétrica 
 
   ## Linguagens de programação, Frameworks e Bibliotecas:
   
-📌 Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe
+📌 Python, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Opencv, MediaPipe, SQL;
 
 <p align="center"> 
 <!-- python -->  
@@ -42,7 +44,12 @@ Sou Bacharela em Engenharia da Computação e Mestranda em Engenharia Elétrica 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <!--opencv-->
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<!--google_bigquery-->
+<a href="https://cloud.google.com/bigquery?hl=pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="google_bigquery" height="40"/> </a> 
+<!--postgresql-->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" height="40"/> </a> 
 </p>
+
 
 ## Meus contatos 📨
   <div align="center">
