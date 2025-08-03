@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andressa</h1>
 
-Sou Bacharela em Engenharia da Computação e Mestranda em Engenharia Elétrica e de Computação pela Universidade Federal do Ceará (UFC). Possuo experiência como cientista de dados com foco em Inteligência Artificial no Dell Lead, onde realizei a implementação de modelos de Machine Learning e Deep Learning para o Reconhecimento de Sinais em LIBRAS. Tenho conhecimento e vivência em Ciências de Dados, desenvolvimento de algoritmos de Machine Learning e Deep Learning, além de competência em Visão Computacional e programação em Python.
+Sou Bacharela em Engenharia da Computação e Doutoranda em Engenharia de Teleinformática pela Universidade Federal do Ceará (UFC). Atuo como Cientista de Dados Junior na Indicium Tech, com experiência em Ciência de Dados. Tenho conhecimento e vivência também em Ciências de Dados e Visão Computacional, desenvolvimento de algoritmos de Machine Learning e Deep Learning, além de competência em programação em Python, aplicando essas habilidades para resolver problemas complexos e extrair valor de grandes volumes de dados.
 
 
 📌 Ciências de Dados;
